@@ -1162,3 +1162,15 @@ future-mercedes.gl.at.ply.gg:3103 => 127.0.0.1:19132 (proto: Udp, port count: 1)
 TUNNELS
 wireless-consumption.gl.at.ply.gg:40573 => 127.0.0.1:25564 (proto: Tcp, port count: 1)
 future-mercedes.gl.at.ply.gg:3103 => 127.0.0.1:19132 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722447133733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wireless-consumption.gl.at.ply.gg:40573 => 127.0.0.1:25564 (proto: Tcp, port count: 1)
+future-mercedes.gl.at.ply.gg:3103 => 127.0.0.1:19132 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722447136774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+wireless-consumption.gl.at.ply.gg:40573 => 127.0.0.1:25564 (proto: Tcp, port count: 1)
+future-mercedes.gl.at.ply.gg:3103 => 127.0.0.1:19132 (proto: Udp, port count: 1)
