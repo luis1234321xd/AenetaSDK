@@ -9,35 +9,35 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "wireless-consumption.gl.at.ply.gg",
-          "assigned_srv": null,
+          "assigned_domain": "budget-demonstrates.gl.joinmc.link",
+          "assigned_srv": "budget-demonstrates.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "1136a396-a655-458a-a1bd-0ebba488326f",
+          "id": "87a930cb-6487-4ea5-96fc-8539b1d75e3f",
           "ip_hostname": "21.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 40574,
-          "port_start": 40573,
+          "port_end": 41118,
+          "port_start": 41117,
           "region": "global",
           "static_ip4": "147.185.221.21",
           "tunnel_ip": "2602:fbaf:0:1::15"
         },
         "status": "allocated"
       },
-      "created_at": "2024-07-31T17:09:40.969581Z",
+      "created_at": "2024-08-01T08:22:43.511191Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "eb6dbd0b-26cc-467c-9b4b-1851818ec420",
+      "id": "cc1fdcc3-da5c-41cc-a949-c6adb7556c94",
       "name": "AenetaSDK Java",
       "origin": {
         "data": {
           "agent_id": "41f2b76b-9f9a-4802-82a4-0133d9ce2314",
           "agent_name": "AenetaSDK",
           "local_ip": "127.0.0.1",
-          "local_port": 25564
+          "local_port": 25565
         },
         "type": "agent"
       },
@@ -48,41 +48,41 @@
         "packets_per_second": null
       },
       "region": "global",
-      "tunnel_type": null
+      "tunnel_type": "minecraft-java"
     },
     {
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "future-mercedes.gl.at.ply.gg",
+          "assigned_domain": "morning-ing.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "d6c18716-8bf5-41f5-9211-a4ecd672b64c",
+          "id": "31483370-11ab-4c98-80c4-86011b070f0a",
           "ip_hostname": "21.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 3104,
-          "port_start": 3103,
+          "port_end": 1149,
+          "port_start": 1148,
           "region": "global",
           "static_ip4": "147.185.221.21",
           "tunnel_ip": "2602:fbaf:0:1::15"
         },
         "status": "allocated"
       },
-      "created_at": "2024-07-31T17:11:27.050201Z",
+      "created_at": "2024-08-01T08:23:04.242599Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "8648c249-2f5c-4299-996c-2965335454d5",
+      "id": "ed543705-e17c-4d37-8c46-a189c646690a",
       "name": "AenetaSDK bedrock",
       "origin": {
         "data": {
           "agent_id": "41f2b76b-9f9a-4802-82a4-0133d9ce2314",
           "agent_name": "AenetaSDK",
           "local_ip": "127.0.0.1",
-          "local_port": 19132
+          "local_port": 1148
         },
         "type": "agent"
       },
@@ -93,7 +93,7 @@
         "packets_per_second": null
       },
       "region": "global",
-      "tunnel_type": null
+      "tunnel_type": "minecraft-bedrock"
     }
   ],
   "udp_alloc": {
